@@ -45,7 +45,7 @@ func _process(delta: float) -> void:
 		#tick down fire rate
 	match current_state:
 		PLAYER_STATES.RELOADING:
-			print("curr reload time = ", timer_reload)
+			#print("curr reload time = ", timer_reload)
 			if timer_reload <= 0:
 				timer_fire_rate = 0.0
 				current_clip = player_character.clip_size
@@ -55,6 +55,8 @@ func _process(delta: float) -> void:
 		PLAYER_STATES.WALKING:
 			pass
 		PLAYER_STATES.COMBAT:
+			print(attack_with_primary())
+			reload_clip()
 			#check if enemy in range
 			#attack the enemy
 			#set auto attack time

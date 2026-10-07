@@ -1,8 +1,8 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1791256814
+::res://::1791326619
 attack.gd::GDScript::8453113025492181046::1791256681::0::1::::<>Node<><>0<>0<><>::
 Enemy.gd::GDScript::4984008997753027914::1791256681::0::1::::Enemy<>Node<><>0<>0<><>::
 GameManager.gd::GDScript::5534975671608225274::1791256774::0::1::::GameManager<>Node2D<><>0<>0<><>::
 icon.svg::CompressedTexture2D::4491191496138280838::1791256681::1791256766::1::::<><><>0<>0<>a7bc39140437083a1f1ddf457614d77e<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-mainscene.tscn::PackedScene::9199569971996415486::1791256774::0::1::::<><><>0<>0<><>::uid://ck4giggfwp411::::res://GameManager.gd
-Player.gd::GDScript::5518843706771708045::1791256681::0::1::::Player<>Node<><>0<>0<><>::
+mainscene.tscn::PackedScene::9199569971996415486::1791256835::0::1::::<><><>0<>0<><>::uid://ck4giggfwp411::::res://GameManager.gd
+Player.gd::GDScript::5518843706771708045::1791256827::0::1::::Player<>Node<><>0<>0<><>::
